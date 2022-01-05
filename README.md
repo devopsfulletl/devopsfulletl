@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devopsfulletl
 - 👀 I’m interested in devops, sre, git, data science 
 - 🌱 I’m currently learning devops, ml 
-- 💞️ I’m looking to collaborate on devops ml
+- 💞️ I’m looking to collaborate on devops mlops
 - 📫 How to reach me devopsfulletl@gmail.com
 
 <!---
